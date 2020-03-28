@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\HP\source\repos\PickGame\PickGame\main.c(15,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\PickGame\PickGame\main.c(59,48): warning C4047:  '==': 'int' differs in levels of indirection from 'void *'
+  PickGame.vcxproj -> C:\Users\HP\source\repos\PickGame\Debug\PickGame.exe
